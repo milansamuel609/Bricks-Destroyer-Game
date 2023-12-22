@@ -1,4 +1,5 @@
 # Bricks-Destroyer-Game
+This is a basic game in which you have to destroy the bricks to score more points.
 This is a game that I developed using the Phasor.io API.
 
 Note:-
