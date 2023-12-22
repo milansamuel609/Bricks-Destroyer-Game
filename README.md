@@ -1,6 +1,12 @@
 # Bricks-Destroyer-Game
 This is a game that I developed using the Phasor.io API.
 
+Note:-
+Before doing the below steps simply create a new folder in Visual Studo Code.
+Now do the below first 4 steps then some files will be created like package-lock.json etc.
+Now simply paste the given files of mine.
+Now do the last 2 steps boom there you go. Now you can play the game
+
 Do the following steps by writing specific codes in the terminal in Visual Studio Code to run and play the game:- 
 
 1) Write 'npm init' then press 'Enter' one by one after few installtion is done after that code.
